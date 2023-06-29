@@ -1,0 +1,1 @@
+GET http://localhost:3000/translate?original_text=xe%20hơi&source=vn&destination=en
